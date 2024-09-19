@@ -2,4 +2,4 @@ Feuille de personnage pour Brigandyne 2e édition(https://brigandyne.wordpress.c
 
 
 ## v1.0 (2024-01-09)
-
+## v1.1 (2024-20-09) bugfix, new logo image hosting, fixed preview image name in json
